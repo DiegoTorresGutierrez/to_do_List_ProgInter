@@ -3,6 +3,6 @@
 Diego Torres Guiérrez
 
 # Enlace de la página web_
-```sh
+
 https://todolist-ya-me-harto-heroku.herokuapp.com/
-```
+
